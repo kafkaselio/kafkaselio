@@ -63,7 +63,13 @@ Coming soon...
 *"Building systems today. Building an empire tomorrow."*
 
 
+## Principles
 
+- Think in systems
+- Build leverage
+- Compound knowledge
+- Create before consuming
+- Play long-term games
 ## Contribution Activity
 
 ![Snake animation](https://github.com/kafkaselio/kafkaselio/blob/output/github-contribution-grid-snake.svg)
