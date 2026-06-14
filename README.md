@@ -73,4 +73,9 @@ Coming soon...
 - Create before consuming
 - Play long-term games
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kafkaselio/kafkaselio/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
