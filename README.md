@@ -79,3 +79,18 @@ Coming soon...
   <img src="https://raw.githubusercontent.com/kafkaselio/kafkaselio/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kafkaselio\&theme=tokyo-night)](https://github.com/kafkaselio)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kafkaselio\&theme=tokyonight)
+
+## 💻 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafkaselio\&show_icons=true\&theme=tokyonight)
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kafkaselio\&layout=compact\&theme=tokyonight)
