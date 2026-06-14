@@ -71,11 +71,8 @@ Coming soon...
 - Create before consuming
 - Play long-term games
 ## Contribution Activity
-## 🎵 Currently Listening To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)]
-![Snake animation](https://github.com/kafkaselio/kafkaselio/blob/output/github-contribution-grid-snake.svg)
-
+![Snake](https://raw.githubusercontent.com/kafkaselio/kafkaselio/output/github-contribution-grid-snake-dark.svg)
 <!--
 **kafkaselio/kafkaselio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
