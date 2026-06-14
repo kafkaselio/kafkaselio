@@ -71,7 +71,9 @@ Coming soon...
 - Create before consuming
 - Play long-term games
 ## Contribution Activity
+## 🎵 Currently Listening To
 
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)]
 ![Snake animation](https://github.com/kafkaselio/kafkaselio/blob/output/github-contribution-grid-snake.svg)
 
 <!--
