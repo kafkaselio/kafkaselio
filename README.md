@@ -70,7 +70,12 @@ Coming soon...
 - Compound knowledge
 - Create before consuming
 - Play long-term games
-## Contribution Activity
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kafkaselio/kafkaselio/output/github-snake.svg" alt="snake animation" />
+</p>
 
 ![Snake](https://raw.githubusercontent.com/kafkaselio/kafkaselio/output/github-contribution-grid-snake-dark.svg)
 <!--
