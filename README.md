@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Business+Strategy;MBA+Aspirant;Building+Systems+%26+Ideas;Future+Founder)]
 # 👋 Hey, I'm Shin
-[![Shin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kafkaselio&theme=tokyo-night)]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
 
 ### Data Analytics • Business Strategy • MBA Aspirant • Tech Enthusiast
