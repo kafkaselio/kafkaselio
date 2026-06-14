@@ -48,6 +48,8 @@ I'm a Computer Science student exploring the intersection of:
 * GitHub
 * Notion
 * VS Code
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kafkaselio&theme=tokyo-night)]
 
 ## Projects
 
@@ -61,9 +63,7 @@ Coming soon...
 ---
 
 *"Building systems today. Building an empire tomorrow."*
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kafkaselio&theme=tokyo-night)]
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kafkaselio&theme=tokyonight)
 
 ## Principles
 
