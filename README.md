@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Shin
 
-![](https://komarev.com/ghpvc/?username=kafkaselio&color=blueviolet)
+
 
 ### Data Analytics • Business Strategy • MBA Aspirant • Tech Enthusiast
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafkaselio&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=kafkaselio&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kafkaselio&layout=compact&theme=tokyonight)
-
+![](https://komarev.com/ghpvc/?username=kafkaselio&color=blueviolet)
 I'm a Computer Science student exploring the intersection of:
 
 * 📊 Data Analytics
