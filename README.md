@@ -58,7 +58,9 @@ Coming soon...
 
 
 
+## Contribution Activity
 
+![Snake animation](https://github.com/kafkaselio/kafkaselio/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **kafkaselio/kafkaselio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
