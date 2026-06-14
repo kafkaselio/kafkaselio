@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Business+Strategy;MBA+Aspirant;Building+Systems+%26+Ideas;Future+Founder)]
 # 👋 Hey, I'm Shin
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
 
 ### Data Analytics • Business Strategy • MBA Aspirant • Tech Enthusiast
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafkaselio&show_icons=true&theme=tokyonight)
@@ -29,7 +24,10 @@ I'm a Computer Science student exploring the intersection of:
 * Creating systems for productivity and personal growth
 
 ## Tech Stack
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ### Languages
 
 * Python
