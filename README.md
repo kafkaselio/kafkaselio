@@ -78,5 +78,4 @@ Coming soon...
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kafkaselio/kafkaselio/output/github-snake-dark.svg" />
-</p>
+  <img src="https://raw.githubusercontent.com/kafkaselio/kafkaselio/output/github-contribution-grid-snake.svg"
