@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Business+Strategy;MBA+Aspirant;Building+Systems+%26+Ideas;Future+Founder)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Business+Strategy;MBA+Aspirant;Building+Systems+%26+Ideas;Future+Founder)
 # 👋 Hey, I'm Shin
 
 ### Data Analytics • Business Strategy • MBA Aspirant • Tech Enthusiast
@@ -80,8 +80,6 @@ Coming soon...
 </p>
 
 ## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kafkaselio\&theme=tokyo-night)](https://github.com/kafkaselio)
 
 
 ## 🧠 Top Languages
